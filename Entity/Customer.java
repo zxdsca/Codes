@@ -1,4 +1,3 @@
-package com.examly.entity;
 
 public class Customer {
 
@@ -66,4 +65,5 @@ public class Customer {
         this.password = password;
     }
 }
+
   
